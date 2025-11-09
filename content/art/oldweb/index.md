@@ -11,7 +11,7 @@ A place to share all of the buttons, blinkies, ~~and more~~ that I've made/assem
 
 ## Buttons
 
-[![AllBubbledUp Button](/imgs/buttons/allbubbledup.png)](https://allbubbledup.neocities.org) [![Crirex Button](/imgs/buttons/crirex.png)](https://crirex.neocities.org/) [![EvyRedPanda Button](/imgs/buttons/evy.png)](https://evypanda.neocities.org/) [![YuePlush Button](/imgs/buttons/yueplush.png)](https://yueplushart.neocities.org/) [![Hugo Button](/imgs/buttons/hugo.webp)](https://gohugo.io)
+[![AllBubbledUp Button](/imgs/buttons/allbubbledup.png)](https://all.bubbledup.club) [![Crirex Button](/imgs/buttons/crirex.png)](https://crirex.neocities.org/) [![EvyRedPanda Button](/imgs/buttons/evy.png)](https://evypanda.neocities.org/) [![YuePlush Button](/imgs/buttons/yueplush.png)](https://yueplushart.neocities.org/) [![Hugo Button](/imgs/buttons/hugo.webp)](https://gohugo.io)
 
 ## Blinkies
 

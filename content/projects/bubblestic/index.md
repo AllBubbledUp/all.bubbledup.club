@@ -39,7 +39,7 @@ The following characters are now flying into the skies forever because their cre
 - **Chaotic**  
 {{<footnote>}}2chaotic, [FurAffinity](https://www.furaffinity.net/user/2chaotic/){{</footnote>}}
 - **Bubbles**  
-{{<footnote>}}Me!, [Neocities](https://allbubbledup.neocities.org/){{</footnote>}}
+{{<footnote>}}Me!, [Neocities](https://all.bubbledup.club/){{</footnote>}}
 - **Goldie**  
 {{<footnote>}}GoldLinaric, [DeviantArt](https://www.deviantart.com/goldlinaric){{</footnote>}}
 - **Cyblesop**  

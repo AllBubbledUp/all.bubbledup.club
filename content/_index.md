@@ -22,9 +22,9 @@ I'm an artist and short-storywriter that specializes in bubbles and other floaty
 
 If you'd like to link back to my site with a tiny, cool graphic, here's my button!
 
-[![AllBubbledUp button](/button.png)](https://allbubbledup.neocities.org)
+[![AllBubbledUp button](/button.png)](https://all.bubbledup.club)
 
-<textarea cols="50" id="buttoncopyfield" readonly="" onclick="var copyText = document.getElementById('buttoncopyfield'); copyText.select(); navigator.clipboard.writeText(copyText.value); alert('Copied code!')">&lt;a href="https://allbubbledup.neocities.org"&gt;&lt;img src="https://allbubbledup.neocities.org/button.png" style="image-rendering:pixelated;"&gt;&lt;/a&gt;</textarea>
+<textarea cols="50" id="buttoncopyfield" readonly="" onclick="var copyText = document.getElementById('buttoncopyfield'); copyText.select(); navigator.clipboard.writeText(copyText.value); alert('Copied code!')">&lt;a href="https://all.bubbledup.club"&gt;&lt;img src="https://all.bubbledup.club/button.png" style="image-rendering:pixelated;"&gt;&lt;/a&gt;</textarea>
 
 <p>{{<footnote>}}Alternatively, if you don't want to hotlink, you can download the button image below.{{</footnote>}}
 {{<html>}}<br><a href="/button.png" download>[⤓ Download]</a>{{</html>}}</p>

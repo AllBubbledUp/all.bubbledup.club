@@ -13,8 +13,6 @@ Hai! I'm gonna try commissions for a bit and see how well they work for me! I'll
 
 ## Terms of Service
 
-{{<footnote>}}*Hi, Neocities moderators! Please don't strike me down for some of the things mentioned below ´:3*{{</footnote>}}
-
 - **Please be nice.** I'm new to doing commissions, so please be patient and understanding.
 - **For the following items, just don't.**
   - <ins>Not Safe for Work</ins> (genitals, depictions of sex, that sort of thing)

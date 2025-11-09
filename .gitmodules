@@ -1,0 +1,3 @@
+[submodule "themes/bubblesite"]
+	path = themes/bubblesite
+	url = https://github.com/AllBubbledUp/bubblesite-theme

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300..700&display=swap');
+/* --------------------------------------------- */
+:root {
+  color-scheme: light dark;
+
+  --light-bg: #abcdef;
+  --light-card-bg: #fff8;
+  --light-fg: #444;
+  --light-fg-bold: black;
+  --light-accent: #456789;
+
+  --dark-bg: #123456;
+  --dark-card-bg: #00000080;
+  --dark-fg: #ccc;
+  --dark-fg-bold: white;
+  --dark-accent: #abcdef;
+
+  --font: 'Overpass Mono', sans-serif;
+  --monospace-font: 'Overpass Mono', sans-serif;
+}

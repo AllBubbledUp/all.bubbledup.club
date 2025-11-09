@@ -1,0 +1,34 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: "Bubbles' Home"
+theme: 'bubblesite'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+server:
+  redirects:
+    from: '/**'
+    status: 404
+    to: '/not_found.html'
+
+params:
+  banner:
+    location: "/imgs/header-image.png"
+    creator: "Helioshigh"
+    creatorlink: "https://www.furaffinity.net/user/helioshigh"
+    bannerlink: "https://www.furaffinity.net/view/56940016/"
+  pallette:
+    light-bg: '#abcdef'
+    light-card-bg: '#fff8'
+    light-fg: '#444'
+    light-fg-bold: 'black'
+    light-accent: '#789abc'
+
+    dark-bg: '#123456'
+    dark-card-bg: '#00000080'
+    dark-fg: '#ccc'
+    dark-fg-bold: 'white'
+    dark-accent: '#abcdef'

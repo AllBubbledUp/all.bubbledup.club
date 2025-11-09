@@ -1,0 +1,36 @@
+<style>
+    .pronoun-header {
+        margin: 0 0 .5em;
+    }
+    .pronoun-list {
+        margin: 0 0 0 .5em;
+    }
+    .proicon {
+        display: inline-block;
+        margin-right: .2em;
+    }
+    .style-0 {
+        color: light-dark(#c04860, #ffa5af);
+    }
+    .style-3, .style-4 {
+        opacity: 50%;
+    }
+    .style-4 {
+        color: light-dark(#e06445, #ff9480);
+    }
+</style>
+{{with .Get "label"}}<h3 class="pronoun-header">{{.}}</h3>{{end}}
+{{ $ratings := slice `<i class="proicon fa-solid fa-heart"></i>` `<i class="proicon fa-solid fa-thumbs-up"></i>` `<i class="proicon fa-solid fa-face-grin-tongue-wink"></i>` `<i class="proicon fa-solid fa-thumbs-down"></i>` `<i class="proicon fa-solid fa-ban"></i>` }}
+{{ $matches := findRESubmatch `(\d+) (.+)` .Inner }}
+<ul class="fa-ul pronoun-list">
+    {{ range $matches }}
+    <li class="style-{{index . 1}}">{{ index $ratings (cast.ToInt (index . 1)) | safeHTML }} {{index . 2 | safeHTML}}</li>
+    {{ end }}
+</ul>
+<!-- 
+<i class="fa-solid fa-heart"></i>
+<i class="fa-solid fa-thumbs-up"></i>
+<i class="fa-solid fa-face-grin-tongue-wink"></i>
+<i class="fa-solid fa-thumbs-down"></i>
+<i class="fa-solid fa-ban"></i>
+-->

@@ -20,12 +20,12 @@ A list of my accepted pronouns, names, honorifics, etc.
 {{</pronoun-table >}}
 {{<close-div-new-card>}}
 {{<pronoun-table label="Names">}}
-0 Bubbles
+0 Soapi
+1 Bubbles
 1 Bubs
 1 Bubble Cat
 1 AllBubbledUp
 2 Variations/Mispronunciations of my name
-3 BubblyFreakOfNature / BFoN
 4 Other names I go by online
 {{</pronoun-table >}}
 {{<close-div-new-card>}}
